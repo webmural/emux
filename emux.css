@@ -28,8 +28,16 @@ body {
   text-align: end;
 }
 
-.emux {
+p {
   font-size: 1.618em;
+}
+
+em {
+  font-size: 1.618em;
+}
+
+b {
+  text-shadow: 1em 2em 0, 2em 1em 0;
 }
 
 dfn {
