@@ -28,6 +28,10 @@ body {
   text-align: end;
 }
 
+.emux {
+  font-size: 1.618em;
+}
+
 dfn {
   font-style: unset;
   font-weight: bold;
