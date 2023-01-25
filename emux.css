@@ -28,7 +28,11 @@ body {
   text-align: end;
 }
 
-.emux {
+p {
+  font-size: 1.618em;
+}
+
+em {
   font-size: 1.618em;
 }
 
