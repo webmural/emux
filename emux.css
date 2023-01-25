@@ -36,6 +36,10 @@ em {
   font-size: 1.618em;
 }
 
+b {
+  text-shadow: 1em 2em 0, 2em 1em 0;
+}
+
 dfn {
   font-style: unset;
   font-weight: bold;
